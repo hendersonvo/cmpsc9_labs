@@ -21,7 +21,7 @@ assert areElementsInList([1,2,3],[3,2,1]) == True
 
 def alternateCase(s):
     ''' This function takes a string parameter (s) and returns a new
-        string that flips the case of each alpha character in s.
+        string that flips the case of each alpha character in s. 
     '''
     new_string = s.swapcase()
 
